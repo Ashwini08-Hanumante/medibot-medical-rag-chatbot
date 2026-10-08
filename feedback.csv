@@ -1,0 +1,7 @@
+time,rating,question,answer,book,pages
+2026-10-08T14:33:52,up,cancer cure ,"The documents state that, as of 2004, there is **no evidence that IA T (immune‑system therapy) cures cancer**. Proponents claim it can halt the spread of many cancers and induce remission, but these claims are not supported by clinical data. A 1990 review of patient records found no evidence of effectiveness, and the medical community remains unconvinced despite some in‑vitro studies showing that GLA can kill certain cancer cells without harming normal cells.  
+
+**What is missing:**  
+- No randomized controlled trials demonstrating a cure.  
+- No data showing long‑term remission rates attributable to IA T.  
+- No peer‑reviewed evidence that IA T is superior to standard treatments such as surgery, radiation, or chemotherapy.",db_faiss,"230,263,400,401,479,480"
